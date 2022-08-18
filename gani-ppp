@@ -1,0 +1,9 @@
+variable "region" {}
+variable "ak" {}
+variable "sk" {}
+variable "myami"{}
+
+variable"keyname" {}
+variable "itype"{}
+
+variable "count_instance" {}
